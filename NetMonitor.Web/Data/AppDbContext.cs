@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using NetMonitor.Web.Domain;
 
 namespace NetMonitor.Web.Data
@@ -16,14 +17,14 @@ namespace NetMonitor.Web.Data
         {
             mb.Entity<Machine>(e =>
             {
-                e.HaIndex(m => m.HostnameAd).IsUnique();
+                e.HasIndex(m => m.HostnameAd).IsUnique();
                 e.HasIndex(m => m.IpAd);
                 e.HasIndex(m => m.HasDnsConflict);
             });
 
             mb.Entity<PingResult>(e =>
             {
-                e.HasIndex(p = new { p.MachineId, p.checkedAt });
+                e.HasIndex(p => new {p.MachineId, p.checkedAt});
 
                 e.HasOne(p => p.Machine)
                 .WithMany(m => m.PingHistory)
