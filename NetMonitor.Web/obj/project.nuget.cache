@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Txv3GSQ0WkI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lukas\\Documents\\NetMonitor\\NetMonitor.Web\\NetMonitor.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukas\\.nuget\\packages\\system.codedom\\10.0.5\\system.codedom.10.0.5.nupkg.sha512",
+    "C:\\Users\\Lukas\\.nuget\\packages\\system.management\\10.0.5\\system.management.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
