@@ -1,0 +1,10 @@
+C:\Users\Lukas\Documents\NetMonitor\NetMonitor.Web\obj\Debug\net9.0\NetMonitor.Web.csproj.AssemblyReference.cache
+C:\Users\Lukas\Documents\NetMonitor\NetMonitor.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Lukas\Documents\NetMonitor\NetMonitor.Web\obj\Debug\net9.0\NetMonitor.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas\Documents\NetMonitor\NetMonitor.Web\obj\Debug\net9.0\NetMonitor.Web.AssemblyInfoInputs.cache
+C:\Users\Lukas\Documents\NetMonitor\NetMonitor.Web\obj\Debug\net9.0\NetMonitor.Web.AssemblyInfo.cs
+C:\Users\Lukas\Documents\NetMonitor\NetMonitor.Web\obj\Debug\net9.0\NetMonitor.Web.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Documents\NetMonitor\NetMonitor.Web\obj\Debug\net9.0\NetMonitor.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lukas\Documents\NetMonitor\NetMonitor.Web\obj\Debug\net9.0\NetMonitor.Web.RazorAssemblyInfo.cache
+C:\Users\Lukas\Documents\NetMonitor\NetMonitor.Web\obj\Debug\net9.0\NetMonitor.Web.RazorAssemblyInfo.cs
+C:\Users\Lukas\Documents\NetMonitor\NetMonitor.Web\obj\Debug\net9.0\NetMonitor.Web.sourcelink.json
